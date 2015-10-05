@@ -11,5 +11,5 @@ Have a bug or an issue with this template?
 
 ## Creator
 
-[Aditya Verma](https://github.com/coderadoi)
+[Aditya Verma](https://github.com/coderadi)
 [Shubham Aggarwal](https://github.com/notepad104)
